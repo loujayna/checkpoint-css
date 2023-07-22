@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding-top: 0%;
+} 
+h1{
+    text-align: left;
+
+}
+header{
+    background-image: url("../assets/télécharger\ \(3\).jpg");
+     text-align: right;
+    color: #000;
+    background-attachment: fixed; 
+}
+
+main {
+    color:black;
+    padding: 20px;
+    text-align: center;
+    font-family: "Roboto", Arial, sans-serif;
+
+}
+
+
+}
+ul{
+    text-align: left;
+}
+
+h2{
+    background-color: aliceblue;
+}
+#Hobbies,p{
+    background-image: url(../assets/télécharger\ \(3\).jpg);
+
+}
+
+footer{
+    background-color: #333;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+    
+    
